@@ -1,6 +1,6 @@
-## Kriti Vermaa
+## Kriti Verma
 
-[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Projects](#Projects) | [Interests](#Interests) | [Reviews](#Reviews)
+[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Projects](#Projects) | [Interests](#Interests)
 
 I am a __Full Stack Developer__ and an experienced __Automation Engineer_ with a __B.tech in Computer Science__.
 
