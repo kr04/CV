@@ -1,1 +1,39 @@
-# CV
+## Kriti Vermaa
+
+[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Projects](#Projects) | [Interests](#Interests) | [Reviews](#Reviews)
+
+I am a __Full Stack Developer__ and an experienced __Automation Engineer_ with a __B.tech in Computer Science__.
+
+I have insatiable appetite for knowledge and am seeking a company where I can contribute hands on experience to crafting clean and reusable code as a Software Developer.
+
+<a name="Skills"></a>
+## Skills
+
+- Language: Python, Groovy
+- Framework and Libraries: Django
+- Databases: MySQL
+- ORM: Active Records, Mongoose, DataMapper
+- Testing: Selenium
+- Automation Server: Jenkins
+
+<a name="Experience"></a>
+## Experience
+**Nuance Communications** (June, 2016 - Present)    
+*Associate Software Engineer*  
+
+- Full stack web development in Python, DJango, HTML, CSS, JQuery, JavaScript and MySQL
+- Automation using Jenkins and Groovy
+- Tools development in Python and their test case development
+
+<a name="Education"></a>
+## Education
+
+#### Shri Ramswaroop Memorial College of Engineering and Management (2012 - 2016)  
+- B.Tech in Computer Science & Engineering
+
+
+<a name="Interests"></a>
+## Interests
+
+- :microphone:singing
+- :books:reading
