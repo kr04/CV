@@ -2,7 +2,7 @@
 
 [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Projects](#Projects) | [Interests](#Interests)
 
-I am a __Full Stack Developer__ and an experienced __Automation Engineer_ with a __B.tech in Computer Science__.
+I am a __Full Stack Developer__ and an experienced __Automation Engineer__ with a __B.tech in Computer Science__.
 
 I have insatiable appetite for knowledge and am seeking a company where I can contribute hands on experience to crafting clean and reusable code as a Software Developer.
 
