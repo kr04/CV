@@ -30,7 +30,7 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 <a name="Certifications"></a>
 ## Certifications
 
-* Python and Django Full Stack Web Developer Bootcamp from Udemy* 
+* Python and Django Full Stack Web Developer Bootcamp from Udemy
 
 <a name="Education"></a>
 ## Education
