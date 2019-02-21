@@ -35,8 +35,11 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 <a name="Education"></a>
 ## Education
 
-#### Shri Ramswaroop Memorial College of Engineering and Management (2012 - 2016)  
-- B.Tech in Computer Science & Engineering
+| Class/Course | School/College                                                 | Board/University | Year | Percentage/CGPA   |
+|--------------|----------------------------------------------------------------|------------------|------|-------------------|
+| B.Tech       | Shri Ramswaroop Memorial College of Engineering and Management | UPTU             | 2016 | 75.3% with honors |
+| XII          | DPS Indirapuram, Ghaziabad                                     | CBSE             | 2012 | 85.4%             |
+| X            | DPS Indirapuram, Ghaziabad                                     | CBSE             | 2010 | 9.6               |
 
 
 <a name="Interests"></a>
