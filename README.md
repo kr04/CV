@@ -37,5 +37,4 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 
 - :microphone:singing
 - :books:reading
-- :piano:playing keyboard
 - :tv:watching TV series
