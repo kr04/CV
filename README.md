@@ -1,6 +1,6 @@
 ## Kriti Verma
 
-[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Projects](#Projects) | [Interests](#Interests)
+[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Certifications](#Certifications) | [Interests](#Interests)
 
 I am a __Full Stack Developer__ and an experienced __Automation Engineer__ with a __B.Tech in Computer Science Engineering__.
 
@@ -25,6 +25,7 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 - Automation using Jenkins and Groovy
 - Tools development in Python
 - Testing automation using Selenium
+
 
 <a name="Certifications"></a>
 ## Certifications
