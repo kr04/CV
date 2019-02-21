@@ -23,7 +23,8 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 
 - Full stack web development in Python, DJango, HTML, CSS, JQuery, JavaScript and MySQL
 - Automation using Jenkins and Groovy
-- Tools development in Python and their test case development
+- Tools development in Python
+- Testing automation using Selenium
 
 <a name="Education"></a>
 ## Education
@@ -37,3 +38,5 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 
 - :microphone:singing
 - :books:reading
+- :piano:playing keyboard
+- :tv:watching TV series
