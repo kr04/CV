@@ -10,9 +10,8 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 ## Skills
 
 - Language: Python, Groovy
-- Framework and Libraries: Django
-- Databases: MySQL
-- ORM: Active Records, Mongoose, DataMapper
+- Python Frameworks & Libraries: Django, Multithreading, Tastypie
+- Databases: MySQL, SQLite3
 - Testing: Selenium
 - Automation Server: Jenkins
 
