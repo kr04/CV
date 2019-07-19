@@ -9,9 +9,9 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 <a name="Skills"></a>
 ## Skills
 
-- Language: Python, Groovy
+- Languages: Python, C
 - Python Frameworks & Libraries: Django, Multithreading, Tastypie
-- Databases: MySQL, SQLite3
+- Databases: MySQL, SQLite3, PostgreSQL
 - Testing: Selenium
 - Automation Server: Jenkins
 
@@ -22,7 +22,7 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 *Associate Software Engineer*  
 
 - Full stack web development in Python, DJango, HTML, CSS, JQuery, JavaScript and MySQL
-- Automation using Jenkins and Groovy
+- Automation using Jenkins
 - Tools development in Python
 - Testing automation using Selenium
 
@@ -31,6 +31,7 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 ## Certifications
 
 * Python and Django Full Stack Web Developer Bootcamp from Udemy
+* The Complete SQL Bootcamp from Udemy
 
 <a name="Education"></a>
 ## Education
