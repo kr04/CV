@@ -12,8 +12,11 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 - Languages: Python, C
 - Python Frameworks & Libraries: Django, Multithreading, Tastypie
 - Databases: MySQL, SQLite3, PostgreSQL
-- Testing: Selenium
 - Automation Server: Jenkins
+- Web Development: HTML, CSS, JavaScript, JQuery, Bootstrap
+- Project Management Tools: Jira, Fogbugz
+- Testing Frameworks: Selenium, RCPTT
+- SCM: Git, Mercurial, Bitbucket
 
 <a name="Experience"></a>
 ## Experience
@@ -24,7 +27,8 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 - Full stack web development in Python, DJango, HTML, CSS, JQuery, JavaScript and MySQL
 - Automation using Jenkins
 - Tools development in Python
-- Testing automation using Selenium
+- Application development in C
+- Testing autoamtion using Selenium and RCPTT
 
 
 <a name="Certifications"></a>
